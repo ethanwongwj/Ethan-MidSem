@@ -9,6 +9,6 @@ function setup() {
         circle(circleX , circleY , 50);
         circleX = circleX + 50;
         circleY = circleY + 50;
-        fillCol = fillCol + 26;
+        fillCol = fillCol + 26
     }
 }
